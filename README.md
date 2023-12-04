@@ -2,6 +2,7 @@
 - 👀 I’m interested in Gym, Coding, Video Editing
 - 🌱 I’m currently learning business IT
 - 📫 How to reach me ...
+- n.mthethwa2003@gmail.com
 
 <!---
 NadMthethwa/NadMthethwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
